@@ -15,7 +15,7 @@ img{
   width: 50px;
   position: fixed;
   bottom: 480px;
-  left: 40px;
+  left: 70px;
   border: 1px solid white;
   border-radius: 5px;
   padding: 20px;
@@ -30,13 +30,88 @@ img{
   width: 100px;
   position: fixed;
   bottom: 480px;
-  left: 150px;
+  left: 180px;
   border: 1px solid white;
   border-radius: 5px;
   padding: 20px;
   color: white;
 }
 #story_button:hover{
+  background-color: white;
+  color: black;
+}
+#work_button{
+  height: 30px;
+  width: 100px;
+  position: fixed;
+  bottom: 480px;
+  left: 340px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+}
+#work_button:hover{
+  background-color: white;
+  color: black;
+}
+#blog_button{
+  height: 30px;
+  width: 150px;
+  position: fixed;
+  bottom: 480px;
+  left: 500px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+}
+#blog_button:hover{
+  background-color: white;
+  color: black;
+}
+#donate_button{
+  height: 30px;
+  width: 70px;
+  position: fixed;
+  bottom: 480px;
+  left: 710px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+}
+#donate_button:hover{
+  background-color: white;
+  color: black;
+}
+#fundraise_button{
+  height: 30px;
+  width: 100px;
+  position: fixed;
+  bottom: 480px;
+  left: 840px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+}
+#fundraise_button:hover{
+  background-color: white;
+  color: black;
+}
+#contact_button{
+  height: 30px;
+  width: 100px;
+  position: fixed;
+  bottom: 480px;
+  left: 1000px;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  color: white;
+}
+#contact_button:hover{
   background-color: white;
   color: black;
 }
