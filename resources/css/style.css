@@ -2,6 +2,24 @@ img{
   width: 100%;
   z-index: 1;
 }
+h1{
+  text-align: left;
+  font-size: 60px;
+  font-family: Slim Joe;
+  z-index: 1;
+  position: relative;
+  left: 70px;
+  color: rgb(255, 115, 118);
+}
+p{
+  text-align: left;
+  font-size: 18px;
+  font-family: Coco Gothic Alternate;
+  z-index: 1;
+  position: relative;
+  left: 70px;
+  color: rgba(255, 115, 118, 1);
+}
 .navigation_bar{
   display: inline-block;
   z-index: 2;
